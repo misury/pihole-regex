@@ -29,3 +29,6 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+*mtalk.google.com
+*.mavenir.com
+(.*)\.g00\.(.*)
